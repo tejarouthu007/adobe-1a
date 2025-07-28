@@ -5,7 +5,7 @@ python model.py
 ```
 
 
-# Round1A
+# Run
 
 ```bash
 docker build --platform linux/amd64 -t round1a:v1 .  
